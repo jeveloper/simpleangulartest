@@ -40,7 +40,12 @@ angular.module('Simpleangulartest', ['ionic', 'ngCordova', 'ngResource'])
         views: {
           'viewContent': {
             templateUrl: 'templates/views/home.html',
-            controller: 'HomeController'
+            controller: 'HomeController',
+            resolve: {
+              sillyquote: function(ExampleService){
+                return ExampleService.fetchSomethingFromServer();
+              }
+            }
           }
         }
       })
