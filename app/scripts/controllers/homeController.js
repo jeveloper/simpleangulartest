@@ -9,19 +9,8 @@
 angular.module('Simpleangulartest')
   .controller('HomeController', function($scope, sillyquote) {
 
+    //this is cleaner than before
     $scope.myHTML = sillyquote.data.text;
 
-    // just an example...
-    // $scope.fetchRandomText = function() {
-    //   ExampleService.doSomethingAsync()
-    //     .then(ExampleService.fetchSomethingFromServer)
-    //     .then(function(response) {
-    //         $scope.myHTML = response.data.text;
-    //         // close pull to refresh loader
-    //         $scope.$broadcast('scroll.refreshComplete');
-    //     });
-    // };
-
-    // $scope.fetchRandomText();
 
   });
