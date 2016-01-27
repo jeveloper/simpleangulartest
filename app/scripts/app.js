@@ -10,7 +10,7 @@
  */
 
 
-angular.module('Simpleangulartest', ['ionic', 'ngCordova', 'ngResource','Simpleangulartest.directives'])
+angular.module('Simpleangulartest', ['ionic', 'ngCordova', 'ngResource','Simpleangulartest.directives','Simpleangulartest.services'])
 
   .run(function($ionicPlatform) {
 

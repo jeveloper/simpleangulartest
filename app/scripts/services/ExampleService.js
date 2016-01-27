@@ -27,7 +27,7 @@ angular.module('Simpleangulartest')
           method: 'GET'
         })
         .success(function(data) {
-          console.log('fetched this stuff from server:', data);
+          
         })
         .error(function(error) {
           console.log('an error occured', error);
