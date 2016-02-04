@@ -4,12 +4,12 @@
   "private": "true",
   "devDependencies": {},
   "dependencies": {
-    "angular": "~1.4.8",
+    "angular": "~1.5",
     "ngCordova": "~0.1.23-alpha",
-    "angular-resource": "~1.4.8",
+    "angular-resource": "~1.5",
     "ionic": "~1.2.1"
   },
   "resolutions": {
-    "angular": "1.4.8"
+    "angular": "1.5"
   }
 }

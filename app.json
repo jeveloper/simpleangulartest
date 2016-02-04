@@ -1,0 +1,12 @@
+{
+  "name": "Ionic fast interview app",
+  "description": "Well configured, structured, ionic app that shows how to call apis and advanced usage of directives with geo lookup",
+  "repository": "https://github.com/heroku/node-js-sample",
+  // "logo": "",
+  "website": "http://jeveloper.com",
+  "repository": "https://github.com/jeveloper/simpleangulartest",
+  // "scripts": {
+  //   "postdeploy": "gulp run"
+  // }
+  "keywords": ["ionic", "angular", "directives"]
+}

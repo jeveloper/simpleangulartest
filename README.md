@@ -29,3 +29,10 @@ Small fix to this generator:
 
   - Upon loading the page, you'll see a quote pulled from api
   - Click on I am located ... tap to refresh location  (this is the directive )
+
+
+  ### Heroku
+
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+  

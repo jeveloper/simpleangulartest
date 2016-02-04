@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.sergebornow.simpleangulartest" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.jeveloper.simpleangulartest" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>simpleangulartest</name>
   <description>
-    Add your desription here
+    Clean and well configured mobile/desktop app, demoes how to use directives, native device feature, api calls
+
   </description>
   <author email="serge.bornow@gmail.com">
     Serge Bornow
