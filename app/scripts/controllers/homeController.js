@@ -13,4 +13,7 @@ angular.module('Simpleangulartest')
     $scope.myHTML = sillyquote.data.text;
 
 
+    $scope.fetchRandomText = function(){
+    	console.log("pulled");
+    }
   });
